@@ -1,5 +1,7 @@
 # Flutter Learning Hub — Project Fungsi Sederhana
 
+<img width="408" height="1600" alt="Image" src="https://github.com/user-attachments/assets/ab1f8927-3f53-4afd-9683-5acb821212b3" />
+
 Aplikasi Flutter interaktif yang mendemonstrasikan 3 fungsi dasar Dart melalui antarmuka berbasis widget.
 
 ## Daftar Topik
